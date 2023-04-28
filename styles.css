@@ -2,6 +2,10 @@ body{
     background-color: aqua;
 }
 
+header{
+    position: center;
+
+}
 .jajaj{
     color: #000;
 }
