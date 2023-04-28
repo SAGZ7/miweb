@@ -4,8 +4,13 @@ body{
 
 header{
     position: center;
+    font-size: 130rem;
 
 }
 .jajaj{
     color: #000;
+}
+
+img{
+    position: center;
 }
